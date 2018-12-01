@@ -1,2 +1,2 @@
 # SCP
-Sydney Competitive Programming Problem Solutions
+My Sydney Competitive Programming Problem Solutions
